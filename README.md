@@ -1,4 +1,4 @@
-[](external-content.duckduckgo.com.gif)
+![](utils/display.gif)
 
 <!--
 **mariogmarq/mariogmarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
