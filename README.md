@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/8d/7c/25/8d7c255f5d0eebb019f579174f8f0fed.gif)
+![](https://img.allw.mn/content/ew/wk/yijrv1h95a2f1690d26da402900264.gif)
 
 <!--
 **mariogmarq/mariogmarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
