@@ -7,7 +7,7 @@
 -   ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [goshare](https://github.com/mariogmarq/goshare)
-- 🤔 I’m looking for help with local network port scans and cryptography
+- 🔭 I’m currently working on my studies and other side projects like [goshare](https://github.com/mariogmarq/goshare)
+- 🤔 I’m looking for help with my app goshare
 - 💬 Ask me about anything
 - 📫 How to reach me: mariogmarq@gmail.com
