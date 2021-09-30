@@ -8,8 +8,8 @@
 
 -->
 
-- 🔭 I’m currently working on my studies and other side projects like [goshare](https://github.com/mariogmarq/goshare) or [syncro](https://github.com/mariogmarq/syncro)
-- 💬 Ask me about anything
+- 🔭 I’m currently working on my studies and other side projects
+- 💬 Ask me about anything, really
 - 📫 How to reach me: mariogmarq@gmail.com
-- ⚡ Fun fact: I really like coffee
-- 🌱 I’m currently learning react and backend stuff
+- ⚡ Fun fact: I do really like coffee
+- 🌱 I’m currently learning rust, golang and desing patterns
