@@ -8,8 +8,8 @@
 
 -->
 
-- 🔭 I’m currently working on my studies and other side projects
-- 💬 Ask me about anything, really
+- 🔭 I’m currently working mainly on my studies and learning new abilities
 - 📫 How to reach me: mariogmarq@gmail.com
-- ⚡ Fun fact: I do really like coffee
-- 🌱 I’m currently learning rust, golang and desing patterns
+- ⚡ Fun fact: I am a coffee nerd
+- 🌱 I’m currently learning machine learning, data science and implementation of databases between other topics
+-  👯 I’m looking to collaborate on any creative project that you have around
